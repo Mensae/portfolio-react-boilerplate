@@ -2,12 +2,12 @@
 
 exports[`<Header /> should adopt the "backgroundColor" property 1`] = `
 <header
-  className="Header-bKPLEa hjSQSW"
+  className="Header-dJBcYZ fFQIeb"
 />
 `;
 
 exports[`<Header /> should render and match the snapshot 1`] = `
 <header
-  className="Header-bKPLEa heLhsp"
+  className="Header-dJBcYZ bClPvC"
 />
 `;

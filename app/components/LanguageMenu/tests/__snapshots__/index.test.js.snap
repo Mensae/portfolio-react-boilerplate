@@ -33,7 +33,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
     >
       <div
         aria-labelledby="LanguageSelector-title"
-        className="Wrapper-ThVjl hWKByU"
+        className="Wrapper-dyuznp jKeqHT"
         role="region"
       >
         <FormattedMessage
@@ -71,7 +71,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
               <button
                 aria-expanded={false}
                 aria-haspopup="true"
-                className="Button__StyledButton-jJDkJK iFzxea"
+                className="Button__StyledButton-gFCKw lnRLYO"
                 lang="en"
                 onClick={[Function]}
                 onKeyDown={[Function]}
@@ -82,7 +82,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                 >
                   <svg
                     aria-hidden="true"
-                    className="SVGIcon-ixpDyI gIDnTS"
+                    className="SVGIcon-yqfLw dQTRqp"
                     focusable="false"
                     viewBox="0 0 15.304 15.304"
                     xmlns="http://www.w3.org/2000/svg"
@@ -99,7 +99,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                 </SVGIcon>
                 <Button__Label>
                   <p
-                    className="Button__Label-eTZejp goVkPO"
+                    className="Button__Label-bibpnq MAehl"
                   >
                     Language
                   </p>
@@ -115,7 +115,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
           onKeyDown={[Function]}
         >
           <div
-            className="Menu-iTwxfD fsJKcK"
+            className="Menu-csMRbe eDtgbs"
             hidden={true}
             onKeyDown={[Function]}
             role="menu"
@@ -138,7 +138,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
               >
                 <button
                   aria-checked={true}
-                  className="LanguageMenuItem__Button-kxxyQY ckaZYK"
+                  className="LanguageMenuItem__Button-fjdtlT djRoTB"
                   data-hasfocus="false"
                   disabled={true}
                   lang="en"
@@ -157,7 +157,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        className="SVGIcon-ixpDyI gIDnTS"
+                        className="SVGIcon-yqfLw dQTRqp"
                         focusable="false"
                         viewBox="0 0 60 30"
                         xmlns="http://www.w3.org/2000/svg"
@@ -214,7 +214,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                     isSelected={true}
                   >
                     <span
-                      className="Label-bxMjsr loWJCg"
+                      className="Label-ghyrbC kZrnsR"
                     >
                       English
                     </span>
@@ -240,7 +240,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
               >
                 <button
                   aria-checked={false}
-                  className="LanguageMenuItem__Button-kxxyQY ckaZYK"
+                  className="LanguageMenuItem__Button-fjdtlT djRoTB"
                   data-hasfocus="false"
                   disabled={false}
                   lang="nl"
@@ -259,7 +259,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                     >
                       <svg
                         aria-hidden="true"
-                        className="SVGIcon-ixpDyI gIDnTS"
+                        className="SVGIcon-yqfLw dQTRqp"
                         focusable="false"
                         viewBox="0 0 9 6"
                         xmlns="http://www.w3.org/2000/svg"
@@ -299,7 +299,7 @@ exports[`<LanguageMenu /> should have one, default, language selected 1`] = `
                     isSelected={false}
                   >
                     <span
-                      className="Label-bxMjsr jUdOdw"
+                      className="Label-ghyrbC gvLcBN"
                     >
                       Nederlands
                     </span>

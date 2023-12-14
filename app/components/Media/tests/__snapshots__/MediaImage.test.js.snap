@@ -69,7 +69,7 @@ exports[`<MediaImage /> should adopt the "reverse" prop 1`] = `
 exports[`<MediaImage /> should render and match the snapshot 1`] = `
 <img
   alt="test"
-  className="MediaImage__StyledImg-eVnySD xBBKk"
+  className="MediaImage__StyledImg-eZgtXX bTsvZv"
   src="/test.png"
 />
 `;

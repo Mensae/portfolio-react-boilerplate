@@ -2,14 +2,14 @@
 
 exports[`<MediaWrapper /> should adopt the "spacing" prop 1`] = `
 <div
-  className="MediaWrapper-hrdgFj cjCMQx"
+  className="MediaWrapper-lbIpbM gvbpwH"
   spacing="10px"
 />
 `;
 
 exports[`<MediaWrapper /> should render and match the snapshot 1`] = `
 <div
-  className="MediaWrapper-hrdgFj bBHwBL"
+  className="MediaWrapper-lbIpbM fNYbie"
   spacing="0"
 />
 `;

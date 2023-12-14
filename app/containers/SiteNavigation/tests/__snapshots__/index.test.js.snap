@@ -3,7 +3,7 @@
 exports[`SiteNavigation should render and match the snapshot 1`] = `
 <nav
   aria-label="site"
-  className="Navigation__Nav-lgxJla ijsJvj"
+  className="Navigation__Nav-iqHure jiqIfL"
 >
   <h2
     aria-hidden="false"
@@ -14,61 +14,61 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
     </span>
   </h2>
   <span
-    className="Navigation__ButtonBlock-iRVxLc bimdhQ"
+    className="Navigation__ButtonBlock-bRLtxr sJGKG"
   >
     <button
       aria-expanded={false}
-      className="Button__StyledButton-jJDkJK ioWhwd"
+      className="Button__StyledButton-gFCKw fLhPPK"
       onClick={[Function]}
       onKeyDown={[Function]}
       type="button"
     >
       <svg
-        className="Button__SVGIcon-gssMt dzZZcq"
+        className="Button__SVGIcon-djpqxW jKHeja"
         focusable="false"
         viewBox="0 0 100 100"
         xmlns="http://www.w3.org/2000/svg"
       >
         <path
-          className="Button__SVGPathOne-dHFIeU gpkZwW Button__SVGPath-iyhhJy bxCsOF"
+          className="Button__SVGPathOne-eTdfSY iUFAMb Button__SVGPath-eUnzLg cKThmI"
           d="M5 13h141v14H5z"
           transform="rotate(0) translate(0)"
         />
         <path
-          className="Button__SVGPathTwo-icbvyX iHOhEn Button__SVGPath-iyhhJy bxCsOF"
+          className="Button__SVGPathTwo-fOXPiT kzhCBb Button__SVGPath-eUnzLg cKThmI"
           d="M5 43h90v14H5z"
         />
         <path
-          className="Button__SVGPathThree-jYZjTT eJBgnp Button__SVGPath-iyhhJy bxCsOF"
+          className="Button__SVGPathThree-eJgpCL dRFppD Button__SVGPath-eUnzLg cKThmI"
           d="M5 73h141v14H5z"
           transform="rotate(0) translate(0)"
         />
       </svg>
       <span
-        className="Button__Label-eTZejp dShXxF"
+        className="Button__Label-bibpnq fpwvft"
       >
         MENU
       </span>
     </button>
   </span>
   <ul
-    className="List-htqUMz dhkWUC"
+    className="List-jQAhzN ilanVN"
     hidden="\\"true\\""
     onKeyDown={[Function]}
   >
     <li
-      className="ListItem-llUgLb hjziCi"
+      className="ListItem-cYZMMi iNJeOg"
     >
       <a
         aria-current={null}
-        className="Link-DKeTA gbIjTt"
+        className="Link-hdnizH GGmQN"
         data-hasfocus="false"
         href="/introduction"
         onClick={[Function]}
         tabIndex="-1"
       >
         <svg
-          className="Icon-cxuQhR hZlxIz"
+          className="Icon-cFRQJw jNOZJa"
           focusable="false"
           viewBox="0 0 576 512"
           xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
           />
         </svg>
         <span
-          className="Label-bxMjsr diaWwm"
+          className="Label-ghyrbC iPPxbz"
         >
           <span>
             Intro
@@ -87,18 +87,18 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
       </a>
     </li>
     <li
-      className="ListItem-llUgLb hjziCi"
+      className="ListItem-cYZMMi iNJeOg"
     >
       <a
         aria-current={null}
-        className="Link-DKeTA gbIjTt"
+        className="Link-hdnizH GGmQN"
         data-hasfocus="false"
         href="/about"
         onClick={[Function]}
         tabIndex="-1"
       >
         <svg
-          className="Icon-cxuQhR hZlxIz"
+          className="Icon-cFRQJw jNOZJa"
           focusable="false"
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +108,7 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
           />
         </svg>
         <span
-          className="Label-bxMjsr diaWwm"
+          className="Label-ghyrbC iPPxbz"
         >
           <span>
             About
@@ -117,18 +117,18 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
       </a>
     </li>
     <li
-      className="ListItem-llUgLb hjziCi"
+      className="ListItem-cYZMMi iNJeOg"
     >
       <a
         aria-current={null}
-        className="Link-DKeTA gbIjTt"
+        className="Link-hdnizH GGmQN"
         data-hasfocus="false"
         href="/skills"
         onClick={[Function]}
         tabIndex="-1"
       >
         <svg
-          className="Icon-cxuQhR hZlxIz"
+          className="Icon-cFRQJw jNOZJa"
           focusable="false"
           viewBox="0 0 640 512"
           xmlns="http://www.w3.org/2000/svg"
@@ -138,7 +138,7 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
           />
         </svg>
         <span
-          className="Label-bxMjsr diaWwm"
+          className="Label-ghyrbC iPPxbz"
         >
           <span>
             Skills
@@ -147,18 +147,18 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
       </a>
     </li>
     <li
-      className="ListItem-llUgLb hjziCi"
+      className="ListItem-cYZMMi iNJeOg"
     >
       <a
         aria-current={null}
-        className="Link-DKeTA gbIjTt"
+        className="Link-hdnizH GGmQN"
         data-hasfocus="false"
         href="/projects"
         onClick={[Function]}
         tabIndex="-1"
       >
         <svg
-          className="Icon-cxuQhR hZlxIz"
+          className="Icon-cFRQJw jNOZJa"
           focusable="false"
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
@@ -168,7 +168,7 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
           />
         </svg>
         <span
-          className="Label-bxMjsr diaWwm"
+          className="Label-ghyrbC iPPxbz"
         >
           <span>
             Projects
@@ -177,18 +177,18 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
       </a>
     </li>
     <li
-      className="ListItem-llUgLb hjziCi"
+      className="ListItem-cYZMMi iNJeOg"
     >
       <a
         aria-current={null}
-        className="Link-DKeTA gbIjTt"
+        className="Link-hdnizH GGmQN"
         data-hasfocus="false"
         href="/contact"
         onClick={[Function]}
         tabIndex="-1"
       >
         <svg
-          className="Icon-cxuQhR hZlxIz"
+          className="Icon-cFRQJw jNOZJa"
           focusable="false"
           viewBox="0 0 512 512"
           xmlns="http://www.w3.org/2000/svg"
@@ -198,7 +198,7 @@ exports[`SiteNavigation should render and match the snapshot 1`] = `
           />
         </svg>
         <span
-          className="Label-bxMjsr diaWwm"
+          className="Label-ghyrbC iPPxbz"
         >
           <span>
             Contact

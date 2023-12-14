@@ -2,6 +2,6 @@
 
 exports[`<IntroPageArticle /> should render and match the snapshot 1`] = `
 <article
-  className="IntroPageArticle-dHlzbf kYshAN"
+  className="IntroPageArticle-gFsZiR cfhCkA"
 />
 `;

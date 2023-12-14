@@ -449,7 +449,7 @@ exports[`<SkillsPage /> fetching content from external source should show an err
           show={true}
         >
           <article
-            className="Article-iozEAH ddRhqm"
+            className="Article-giIuJI gdsWQc"
           >
             <Header>
               <header>
@@ -465,7 +465,7 @@ exports[`<SkillsPage /> fetching content from external source should show an err
                     showArrowBreakpoint="750px"
                   >
                     <div
-                      className="Container-gZqETv jUyUSn"
+                      className="Container-klzlrk fuOKCI"
                     >
                       <Bubble
                         arrowPosition="bottom-right"
@@ -475,17 +475,17 @@ exports[`<SkillsPage /> fetching content from external source should show an err
                         showArrowBreakpoint="750px"
                       >
                         <div
-                          className="Bubble-cYQkeS ixgWcF"
+                          className="Bubble-gOApm exWWZl"
                         >
                           <Content>
                             <div
-                              className="Content-zwkXZ gghqRA"
+                              className="Content-ezcNVe eVzdCt"
                             >
                               <H2
                                 isError={true}
                               >
                                 <h2
-                                  className="H2-eUbBFj hYXgfx"
+                                  className="H2-hJohpJ kVLyWE"
                                 >
                                   <FormattedMessage
                                     defaultMessage="Terribly sorry, but the content cannot be loaded at this time"
@@ -505,7 +505,7 @@ exports[`<SkillsPage /> fetching content from external source should show an err
                               >
                                 <svg
                                   aria-hidden="true"
-                                  className="SVGIcon-ixpDyI cxenSi"
+                                  className="SVGIcon-yqfLw bYPKqb"
                                   focusable="false"
                                   height="2em"
                                   viewBox="0 0 512 512"
@@ -534,7 +534,7 @@ exports[`<SkillsPage /> fetching content from external source should show an err
                           showBreakpoint="750px"
                         >
                           <svg
-                            className="Arrow__SVG-iWxuxU jYKhgf"
+                            className="Arrow__SVG-hzbpXw bSXSCU"
                             focusable="false"
                             height="4vh"
                             preserveAspectRatio="xMinYMid meet"
@@ -824,14 +824,14 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
           animate={true}
         >
           <div
-            className="Wrapper-ThVjl ipiXwR"
+            className="Wrapper-dyuznp gdnzZw"
           >
             <PageHeader
               arrowPosition="bottom-left"
             >
               <StyledHeader>
                 <header
-                  className="StyledHeader-fJIKuc cuJATB"
+                  className="StyledHeader-cvrwdv sfXEJ"
                 >
                   <SpeechBubble
                     arrowHeight="4vh"
@@ -846,7 +846,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                       showArrowBreakpoint="750px"
                     >
                       <div
-                        className="Container-gZqETv hayOh"
+                        className="Container-klzlrk hClnXH"
                       >
                         <Bubble
                           arrowPosition="bottom-left"
@@ -855,13 +855,13 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                           showArrowBreakpoint="750px"
                         >
                           <div
-                            className="Bubble-cYQkeS errvuT"
+                            className="Bubble-gOApm lhCKkB"
                           >
                             <H2
                               color="#aedd2c"
                             >
                               <h2
-                                className="H2-eUbBFj iAWPFe"
+                                className="H2-edqtgr kieBot"
                                 color="#aedd2c"
                               >
                                 <FormattedMessage
@@ -890,7 +890,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                             showBreakpoint="750px"
                           >
                             <svg
-                              className="Arrow__SVG-iWxuxU iIEjSv"
+                              className="Arrow__SVG-hzbpXw ggCcDa"
                               focusable="false"
                               height="4vh"
                               preserveAspectRatio="xMinYMid meet"
@@ -926,7 +926,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
             </PageHeader>
             <ContentWrapper>
               <div
-                className="ContentWrapper-fNtIWq jXZlqv"
+                className="ContentWrapper-bvWSlK dXrLXR"
               >
                 <SpeechBubble
                   arrowHeight="9vh"
@@ -945,7 +945,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                     showArrowBreakpoint="750px"
                   >
                     <div
-                      className="Container-gZqETv jsqDeB"
+                      className="Container-klzlrk kRNDZb"
                     >
                       <Bubble
                         arrowPosition="bottom-right"
@@ -956,7 +956,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                         showArrowBreakpoint="750px"
                       >
                         <div
-                          className="Bubble-cYQkeS bOhOYj"
+                          className="Bubble-gOApm gxwsTR"
                           color="#000"
                         >
                           <p
@@ -981,7 +981,7 @@ exports[`<SkillsPage /> fetching content from external source should show the fe
                           showBreakpoint="750px"
                         >
                           <svg
-                            className="Arrow__SVG-iWxuxU bOIamW"
+                            className="Arrow__SVG-hzbpXw jQrtxA"
                             focusable="false"
                             height="9vh"
                             preserveAspectRatio="xMinYMid meet"

@@ -10,7 +10,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
     >
       <nav
         aria-labelledby="SocialLinks-title"
-        className="SocialLinks__Nav-hNVsnJ jfaEKQ"
+        className="SocialLinks__Nav-cdZOJs cxnUYE"
       >
         <FormattedMessage
           defaultMessage="Also find me on:"
@@ -29,14 +29,14 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
           innerRef={[Function]}
         >
           <ul
-            className="StyledUL-ePeKRx QkFKd"
+            className="StyledUL-gFTTZU eLxfLZ"
           >
             <StyledLI
               data-tip="freeCodeCamp"
               key="https://www.freecodecamp.org/mensae"
             >
               <li
-                className="StyledLI-jkNRrE hBftMa"
+                className="StyledLI-fPYWHy fHnohi"
                 data-tip="freeCodeCamp"
               >
                 <ExternalLink
@@ -52,7 +52,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                     target="_blank"
                   >
                     <a
-                      className="StyledA-cLuoha bEATWP"
+                      className="StyledA-cBWkrl bpeAZE"
                       color="#465a65"
                       href="https://www.freecodecamp.org/mensae"
                       rel="noopener noreferrer"
@@ -64,7 +64,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            className="SVGIcon-ixpDyI gIDnTS"
+                            className="SVGIcon-yqfLw dQTRqp"
                             focusable="false"
                             viewBox="0 0 576 512"
                             xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                       </IconFreeCodeCamp>
                       <Description>
                         <span
-                          className="Description-gMEclz ducwaF"
+                          className="Description-hWhuvR loNPhs"
                         >
                           freeCodeCamp
                         </span>
@@ -92,7 +92,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
               key="https://github.com/Mensae"
             >
               <li
-                className="StyledLI-jkNRrE hBftMa"
+                className="StyledLI-fPYWHy fHnohi"
                 data-tip="GitHub"
               >
                 <ExternalLink
@@ -108,7 +108,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                     target="_blank"
                   >
                     <a
-                      className="StyledA-cLuoha bEATWP"
+                      className="StyledA-cBWkrl bpeAZE"
                       color="#465a65"
                       href="https://github.com/Mensae"
                       rel="noopener noreferrer"
@@ -120,7 +120,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            className="SVGIcon-ixpDyI gIDnTS"
+                            className="SVGIcon-yqfLw dQTRqp"
                             focusable="false"
                             viewBox="0 0 496 512"
                             xmlns="http://www.w3.org/2000/svg"
@@ -133,7 +133,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                       </IconGithub>
                       <Description>
                         <span
-                          className="Description-gMEclz ducwaF"
+                          className="Description-hWhuvR loNPhs"
                         >
                           GitHub
                         </span>
@@ -148,7 +148,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
               key="https://nl.linkedin.com/in/jmeester"
             >
               <li
-                className="StyledLI-jkNRrE hBftMa"
+                className="StyledLI-fPYWHy fHnohi"
                 data-tip="LinkedIn"
               >
                 <ExternalLink
@@ -164,7 +164,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                     target="_blank"
                   >
                     <a
-                      className="StyledA-cLuoha bEATWP"
+                      className="StyledA-cBWkrl bpeAZE"
                       color="#465a65"
                       href="https://nl.linkedin.com/in/jmeester"
                       rel="noopener noreferrer"
@@ -176,7 +176,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            className="SVGIcon-ixpDyI gIDnTS"
+                            className="SVGIcon-yqfLw dQTRqp"
                             focusable="false"
                             viewBox="0 0 448 512"
                             xmlns="http://www.w3.org/2000/svg"
@@ -189,7 +189,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                       </IconLinkedin>
                       <Description>
                         <span
-                          className="Description-gMEclz ducwaF"
+                          className="Description-hWhuvR loNPhs"
                         >
                           LinkedIn
                         </span>
@@ -204,7 +204,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
               key="https://codepen.io/jmeester"
             >
               <li
-                className="StyledLI-jkNRrE hBftMa"
+                className="StyledLI-fPYWHy fHnohi"
                 data-tip="Codepen"
               >
                 <ExternalLink
@@ -220,7 +220,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                     target="_blank"
                   >
                     <a
-                      className="StyledA-cLuoha bEATWP"
+                      className="StyledA-cBWkrl bpeAZE"
                       color="#465a65"
                       href="https://codepen.io/jmeester"
                       rel="noopener noreferrer"
@@ -232,7 +232,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                         >
                           <svg
                             aria-hidden="true"
-                            className="SVGIcon-ixpDyI gIDnTS"
+                            className="SVGIcon-yqfLw dQTRqp"
                             focusable="false"
                             viewBox="0 0 512 512"
                             xmlns="http://www.w3.org/2000/svg"
@@ -245,7 +245,7 @@ exports[`<SocialLinks /> should render and match the snapshot 1`] = `
                       </IconCodepen>
                       <Description>
                         <span
-                          className="Description-gMEclz ducwaF"
+                          className="Description-hWhuvR loNPhs"
                         >
                           Codepen
                         </span>

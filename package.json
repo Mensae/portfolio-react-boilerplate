@@ -5,7 +5,7 @@
   "private": true,
   "engines": {
     "npm": ">=5",
-    "node": ">=8.10.0"
+    "node": ">=8.10.0 <17"
   },
   "author": "Johan Meester",
   "license": "MIT",
@@ -61,10 +61,10 @@
   "dependencies": {
     "@babel/polyfill": "7.0.0",
     "chalk": "2.4.1",
-    "compression": "1.7.3",
+    "compression": "1.7.4",
     "connected-react-router": "5.0.1",
     "cross-env": "5.2.0",
-    "express": "4.16.4",
+    "express": "4.17.3",
     "fontfaceobserver": "2.0.13",
     "history": "4.7.2",
     "hoist-non-react-statics": "3.1.0",
@@ -72,14 +72,11 @@
     "immutable": "3.8.2",
     "intl": "1.2.5",
     "invariant": "2.2.4",
-    "ip": "1.1.5",
+    "ip": "1.1.8",
     "loadable-components": "2.2.3",
-    "lodash": "4.17.13",
-    "marked": "0.5.2",
-    "minimist": "1.2.3",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "marked": "0.7.0",
-    "minimist": "1.2.3",
+    "minimist": "1.2.8",
     "polished": "2.3.1",
     "prop-types": "15.6.2",
     "react": "16.6.3",
@@ -95,8 +92,8 @@
     "reselect": "4.0.0",
     "sanitize.css": "4.1.0",
     "snapsvg": "0.5.1",
-    "styled-components": "3.3.2",
-    "validator": "10.9.0"
+    "styled-components": "3.4.10",
+    "validator": "13.11.0"
   },
   "devDependencies": {
     "@babel/cli": "7.1.5",
@@ -149,7 +146,7 @@
     "ngrok": "3.1.0",
     "node-plop": "0.16.0",
     "null-loader": "0.1.1",
-    "offline-plugin": "5.0.6",
+    "offline-plugin": "5.0.7",
     "plop": "2.1.0",
     "pre-commit": "1.2.2",
     "prettier": "1.15.2",

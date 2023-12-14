@@ -505,14 +505,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
       animate={true}
     >
       <div
-        className="Wrapper-ThVjl ipiXwR"
+        className="Wrapper-dyuznp gdnzZw"
       >
         <PageHeader
           arrowPosition="bottom-left"
         >
           <StyledHeader>
             <header
-              className="StyledHeader-fJIKuc cuJATB"
+              className="StyledHeader-cvrwdv sfXEJ"
             >
               <SpeechBubble
                 arrowHeight="4vh"
@@ -527,7 +527,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                   showArrowBreakpoint="750px"
                 >
                   <div
-                    className="Container-gZqETv hayOh"
+                    className="Container-klzlrk hClnXH"
                   >
                     <Bubble
                       arrowPosition="bottom-left"
@@ -536,13 +536,13 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                       showArrowBreakpoint="750px"
                     >
                       <div
-                        className="Bubble-cYQkeS errvuT"
+                        className="Bubble-gOApm lhCKkB"
                       >
                         <H2
                           color="#aedd2c"
                         >
                           <h2
-                            className="H2-eUbBFj iAWPFe"
+                            className="H2-edqtgr kieBot"
                             color="#aedd2c"
                           >
                             <FormattedMessage
@@ -571,7 +571,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                         showBreakpoint="750px"
                       >
                         <svg
-                          className="Arrow__SVG-iWxuxU iIEjSv"
+                          className="Arrow__SVG-hzbpXw ggCcDa"
                           focusable="false"
                           height="4vh"
                           preserveAspectRatio="xMinYMid meet"
@@ -607,7 +607,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
         </PageHeader>
         <ContentWrapper>
           <div
-            className="ContentWrapper-fNtIWq jXZlqv"
+            className="ContentWrapper-bvWSlK dXrLXR"
           >
             <SpeechBubble
               arrowHeight="9vh"
@@ -626,7 +626,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                 showArrowBreakpoint="750px"
               >
                 <div
-                  className="Container-gZqETv jsqDeB"
+                  className="Container-klzlrk kRNDZb"
                 >
                   <Bubble
                     arrowPosition="bottom-right"
@@ -637,7 +637,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                     showArrowBreakpoint="750px"
                   >
                     <div
-                      className="Bubble-cYQkeS bOhOYj"
+                      className="Bubble-gOApm gxwsTR"
                       color="#000"
                     >
                       <InjectIntl(ContactForm)
@@ -770,7 +770,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                             onSubmit={[Function]}
                           >
                             <form
-                              className="Form-dhHGoS esfMlR"
+                              className="Form-gTeswK bqrwJr"
                               onChange={[Function]}
                               onSubmit={[Function]}
                             >
@@ -779,19 +779,19 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                   <div>
                                     <InfoList>
                                       <ul
-                                        className="InfoList-bFUbOM JIzhr"
+                                        className="InfoList-ehRsuS dTQNMS"
                                       >
                                         <InfoListItem>
                                           <InfoListItem__Li>
                                             <li
-                                              className="InfoListItem__Li-fMSWPj hCpuSE"
+                                              className="InfoListItem__Li-hDLXpH gbDFYm"
                                             >
                                               <SVGIcon
                                                 viewBox="0 0 512 512"
                                               >
                                                 <svg
                                                   aria-hidden="true"
-                                                  className="SVGIcon-ixpDyI gIDnTS"
+                                                  className="SVGIcon-yqfLw dQTRqp"
                                                   focusable="false"
                                                   viewBox="0 0 512 512"
                                                   xmlns="http://www.w3.org/2000/svg"
@@ -803,7 +803,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                               </SVGIcon>
                                               <InfoListItem__Span>
                                                 <span
-                                                  className="InfoListItem__Span-iuvfSH gxPpOU"
+                                                  className="InfoListItem__Span-fgTHaG dJpAhi"
                                                 >
                                                   <FormattedMessage
                                                     defaultMessage="Please fill all fields"
@@ -836,14 +836,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                     >
                                       <InputGroup>
                                         <div
-                                          className="InputGroup-bLbrFg lklykp"
+                                          className="InputGroup-brEvfi diFcAB"
                                         >
                                           <Label
                                             htmlFor="name"
                                             onClick={[Function]}
                                           >
                                             <label
-                                              className="Label-bxMjsr cBsFJx"
+                                              className="Label-ghyrbC fpPeWE"
                                               htmlFor="name"
                                               onClick={[Function]}
                                             >
@@ -851,14 +851,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                                 hasFocus={false}
                                               >
                                                 <span
-                                                  className="LabelContent-gWnUXw eGuzay"
+                                                  className="LabelContent-iptDuP PbAtl"
                                                 >
                                                   Subject
                                                   <Placeholder
                                                     hasFocus={false}
                                                   >
                                                     <span
-                                                      className="Placeholder-iEcLMX fbeOYY"
+                                                      className="Placeholder-igIeDi fchvnj"
                                                     >
                                                       <i />
                                                     </span>
@@ -877,7 +877,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                             value=""
                                           >
                                             <input
-                                              className="StyledInput-dwXrMm kInwBn"
+                                              className="StyledInput-kKifnt cPdZuh"
                                               name="subject"
                                               onBlur={[Function]}
                                               onChange={[Function]}
@@ -888,13 +888,13 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                           </StyledInput>
                                           <SubText>
                                             <div
-                                              className="SubText-VSxHA eYTSar"
+                                              className="SubText-eTQZNx brHDCH"
                                             >
                                               <ErrorMessage
                                                 showError={false}
                                               >
                                                 <span
-                                                  className="ErrorMessage-eJhZpN cVajIv"
+                                                  className="ErrorMessage-eOsVYM hPmKOD"
                                                 >
                                                   false 
                                                 </span>
@@ -937,14 +937,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                     >
                                       <InputGroup>
                                         <div
-                                          className="InputGroup-bLbrFg lklykp"
+                                          className="InputGroup-brEvfi diFcAB"
                                         >
                                           <Label
                                             htmlFor="name"
                                             onClick={[Function]}
                                           >
                                             <label
-                                              className="Label-bxMjsr cBsFJx"
+                                              className="Label-ghyrbC fpPeWE"
                                               htmlFor="name"
                                               onClick={[Function]}
                                             >
@@ -952,14 +952,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                                 hasFocus={false}
                                               >
                                                 <span
-                                                  className="LabelContent-gWnUXw eGuzay"
+                                                  className="LabelContent-iptDuP PbAtl"
                                                 >
                                                   Your message
                                                   <Placeholder
                                                     hasFocus={false}
                                                   >
                                                     <span
-                                                      className="Placeholder-iEcLMX fbeOYY"
+                                                      className="Placeholder-igIeDi fchvnj"
                                                     >
                                                       <i />
                                                     </span>
@@ -978,7 +978,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                             value=""
                                           >
                                             <textarea
-                                              className="StyledTextArea-kINxWV hZhUcn"
+                                              className="StyledTextArea-jVxDxS hXeSRG"
                                               name="message"
                                               onBlur={[Function]}
                                               onChange={[Function]}
@@ -988,13 +988,13 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                           </StyledTextArea>
                                           <SubText>
                                             <div
-                                              className="SubText-VSxHA eYTSar"
+                                              className="SubText-eTQZNx brHDCH"
                                             >
                                               <ErrorMessage
                                                 showError={false}
                                               >
                                                 <span
-                                                  className="ErrorMessage-eJhZpN cVajIv"
+                                                  className="ErrorMessage-eOsVYM hPmKOD"
                                                 >
                                                   false 
                                                 </span>
@@ -1039,14 +1039,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                     >
                                       <InputGroup>
                                         <div
-                                          className="InputGroup-bLbrFg lklykp"
+                                          className="InputGroup-brEvfi diFcAB"
                                         >
                                           <Label
                                             htmlFor="name"
                                             onClick={[Function]}
                                           >
                                             <label
-                                              className="Label-bxMjsr cBsFJx"
+                                              className="Label-ghyrbC fpPeWE"
                                               htmlFor="name"
                                               onClick={[Function]}
                                             >
@@ -1054,14 +1054,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                                 hasFocus={false}
                                               >
                                                 <span
-                                                  className="LabelContent-gWnUXw eGuzay"
+                                                  className="LabelContent-iptDuP PbAtl"
                                                 >
                                                   Your name
                                                   <Placeholder
                                                     hasFocus={false}
                                                   >
                                                     <span
-                                                      className="Placeholder-iEcLMX fbeOYY"
+                                                      className="Placeholder-igIeDi fchvnj"
                                                     >
                                                       <i>
                                                         (e.g. John Doo)
@@ -1082,7 +1082,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                             value=""
                                           >
                                             <input
-                                              className="StyledInput-dwXrMm kInwBn"
+                                              className="StyledInput-kKifnt cPdZuh"
                                               name="name"
                                               onBlur={[Function]}
                                               onChange={[Function]}
@@ -1093,13 +1093,13 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                           </StyledInput>
                                           <SubText>
                                             <div
-                                              className="SubText-VSxHA eYTSar"
+                                              className="SubText-eTQZNx brHDCH"
                                             >
                                               <ErrorMessage
                                                 showError={false}
                                               >
                                                 <span
-                                                  className="ErrorMessage-eJhZpN cVajIv"
+                                                  className="ErrorMessage-eOsVYM hPmKOD"
                                                 >
                                                   false 
                                                 </span>
@@ -1142,14 +1142,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                     >
                                       <InputGroup>
                                         <div
-                                          className="InputGroup-bLbrFg lklykp"
+                                          className="InputGroup-brEvfi diFcAB"
                                         >
                                           <Label
                                             htmlFor="name"
                                             onClick={[Function]}
                                           >
                                             <label
-                                              className="Label-bxMjsr cBsFJx"
+                                              className="Label-ghyrbC fpPeWE"
                                               htmlFor="name"
                                               onClick={[Function]}
                                             >
@@ -1157,14 +1157,14 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                                 hasFocus={false}
                                               >
                                                 <span
-                                                  className="LabelContent-gWnUXw eGuzay"
+                                                  className="LabelContent-iptDuP PbAtl"
                                                 >
                                                   Your email address
                                                   <Placeholder
                                                     hasFocus={false}
                                                   >
                                                     <span
-                                                      className="Placeholder-iEcLMX fbeOYY"
+                                                      className="Placeholder-igIeDi fchvnj"
                                                     >
                                                       <i>
                                                         (e.g. my@email.com)
@@ -1185,7 +1185,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                             value=""
                                           >
                                             <input
-                                              className="StyledInput-dwXrMm kInwBn"
+                                              className="StyledInput-kKifnt cPdZuh"
                                               name="email"
                                               onBlur={[Function]}
                                               onChange={[Function]}
@@ -1196,13 +1196,13 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                           </StyledInput>
                                           <SubText>
                                             <div
-                                              className="SubText-VSxHA eYTSar"
+                                              className="SubText-eTQZNx brHDCH"
                                             >
                                               <ErrorMessage
                                                 showError={false}
                                               >
                                                 <span
-                                                  className="ErrorMessage-eJhZpN cVajIv"
+                                                  className="ErrorMessage-eOsVYM hPmKOD"
                                                 >
                                                   false 
                                                 </span>
@@ -1221,7 +1221,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                   </div>
                                   <Footer>
                                     <div
-                                      className="Footer-iInldp gRvKfv"
+                                      className="Footer-jvLzeV fAleiz"
                                     >
                                       <SubmitButton
                                         buttonState="idle"
@@ -1231,7 +1231,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                           isEnabled={false}
                                         >
                                           <button
-                                            className="Button-kDSBcD cdDmvZ"
+                                            className="Button-hYXUXp bRtuSp"
                                           >
                                             <span>
                                               <SVGIcon
@@ -1239,7 +1239,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                               >
                                                 <svg
                                                   aria-hidden="true"
-                                                  className="SVGIcon-ixpDyI gIDnTS"
+                                                  className="SVGIcon-yqfLw dQTRqp"
                                                   focusable="false"
                                                   viewBox="0 0 512 512"
                                                   xmlns="http://www.w3.org/2000/svg"
@@ -1251,7 +1251,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                                               </SVGIcon>
                                               <Label>
                                                 <span
-                                                  className="Label-bxMjsr kEMeDd"
+                                                  className="Label-fIbAhr diaXAR"
                                                 >
                                                   <FormattedMessage
                                                     defaultMessage="Send"
@@ -1291,7 +1291,7 @@ Please go to the {home} page or, if you think this is an error, to the {contact}
                       showBreakpoint="750px"
                     >
                       <svg
-                        className="Arrow__SVG-iWxuxU bOIamW"
+                        className="Arrow__SVG-hzbpXw jQrtxA"
                         focusable="false"
                         height="9vh"
                         preserveAspectRatio="xMinYMid meet"
